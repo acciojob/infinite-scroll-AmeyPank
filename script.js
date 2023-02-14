@@ -1,6 +1,6 @@
 //your code here!
 
-//solution Already here
+//solution
 
 let list = document.querySelector("#infi-list");
 console.log(list);
