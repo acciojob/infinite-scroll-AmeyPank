@@ -22,4 +22,3 @@ list.addEventListener("scroll", ()=>{
     n+=2;
   }
 })
-
